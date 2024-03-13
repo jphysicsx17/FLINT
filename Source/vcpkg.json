@@ -6,7 +6,7 @@
         "overlay-triplets": [
             "../vcpkg/triplets"
         ],
-        "registries": [
+        "registeries": [
             {
                 "kind": "filesystem",
                 "path": "../vcpkg/registry",
